@@ -1,0 +1,7 @@
+asgiref
+Django
+gunicorn
+Pillow
+sqlparse
+tzdata
+whitenoise
